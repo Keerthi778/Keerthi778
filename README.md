@@ -1,11 +1,9 @@
-# Sidda Keerthi - Portfolio
+#  Hi 😊! This is Sidda Keerthi 
+🤖 AI/ML Enthusiast | 💻 Front-end Developer | 🧩 Problem Solver
+
 
 ## 📌 Professional Summary
 B.Tech Computer Science and Engineering (AI & ML) student with expertise in AI/ML, Web Development, and Data Structures & Algorithms. Passionate about robotics and developing AI-driven solutions for real-world challenges. Strong communicator and quick learner with hands-on project experience.
-
----
-
- 
 
 ---
 
@@ -45,8 +43,8 @@ B.Tech Computer Science and Engineering (AI & ML) student with expertise in AI/M
 
 ## 📜 Certifications
 - **AICTE:** AI & ML, Cloud Computing, Data Engineering, Ethical Hacking, Java Full Stack  
-- **SKILL DUNIA: Machine learning with python
-- **SKILL DRIZE: Full Stack Java
+- **SKILL DUNIA**: Machine learning with python
+- **SKILL DRIZE**: Full Stack Java
 
 ---
 
