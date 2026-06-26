@@ -1,6 +1,6 @@
 #  Hi 😊! This is Sidda Keerthi 
 ---
-🤖 AI/ML Enthusiast | 💻 Front-end Developer | 🧩 Problem Solver
+🤖 AI/ML Enthusiast | 💻 Front-end Developer | 🧩 Problem Solver | Data Analyst
 
 ---
 ## 📌 Professional Summary
@@ -10,7 +10,7 @@ B.Tech Computer Science and Engineering (AI & ML) student with expertise in AI/M
 
 ## 🎓 Education
 - **Rajeev Gandhi Memorial College Of Engineering & Technology** (2022-2026)  
-  - B.Tech in CSE (AI & ML), CGPA: 7.3  
+  - B.Tech in CSE (AI & ML), CGPA: 8.0
 - **Naryana Junior College** (2020-2022)  
   - XII-Standard (MPC), CGPA: 9.1  
 - **Sri Chaitanya English Medium School** (2020)  
@@ -38,7 +38,8 @@ B.Tech Computer Science and Engineering (AI & ML) student with expertise in AI/M
 - **Expense Tracker**  
   - Developed a responsive app with dynamic categorization, local storage, and chart visualizations (HTML/CSS/JS).  
 - **Country Guide App**  
-  - Created an interactive guide displaying country details like currency, capital, and population (HTML/CSS/JS).  
+  - Created an interactive guide displaying country details like currency, capital, and population (HTML/CSS/JS).
+  ### **
 
 ---
 
