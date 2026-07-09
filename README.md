@@ -1,64 +1,96 @@
-#  Hi 😊! This is Sidda Keerthi 
----
-🤖 AI/ML Enthusiast | 💻 Front-end Developer | 🧩 Problem Solver | Data Analyst
+# Hi, I'm Sidda Keerthi 👋
+
+### Data Analyst | AI/ML & Automation Background
+
+I'm a B.Tech CSE (AI & ML) student with hands-on experience in data analysis, business intelligence dashboards, and process automation. I enjoy turning raw data into stakeholder-ready insights using SQL, Excel/VBA, Power BI, and Python — and I've independently scoped, built, and delivered several analytics projects end-to-end.
 
 ---
-## 📌 Professional Summary
-B.Tech Computer Science and Engineering (AI & ML) student with expertise in AI/ML, Web Development, and Data Structures & Algorithms. Passionate about robotics and developing AI-driven solutions for real-world challenges. Strong communicator and quick learner with hands-on project experience.
+
+## 🧭 About Me
+
+- 🎓 B.Tech, Computer Science & Engineering (AI & ML) — Rajeev Gandhi Memorial College of Engineering & Technology, Nandyal, AP (2022–2026)
+- 📊 Focused on data analysis, BI dashboards, and automation
+- 🛠️ Comfortable owning deliverables in remote, cross-functional, and asynchronous team settings
+- 🗣️ Strong written and verbal communicator
+- 📍 Based in Nandyal, Andhra Pradesh, India
+
+---
+
+## 🛠️ Core Skills
+
+**Data Analysis & Insights**
+`SQL` `Python (Pandas, NumPy)` `Excel (Advanced)` `Statistical Pattern Analysis`
+
+**Dashboards & Reporting**
+`Power BI` `Excel VBA Macros` `KPI Tracking` `Data Visualization`
+
+**Stakeholder & Process Skills**
+`Requirements Gathering` `Cross-functional Collaboration` `Process Automation` `Operational Reporting`
+
+**Tools**
+`Jupyter Notebook` `GitHub` `VS Code` `Django` `MongoDB`
+
+**Remote Collaboration**
+`Zoom` `Google Meet` `Slack` `MS Teams` `Async GitHub Workflows`
+
+---
+
+## 💼 Featured Projects
+
+### 📊 AI Adoption Dashboard (Excel VBA + Power BI)
+*Independent Project*
+- Built a one-click, stakeholder-ready dashboard automating KPI calculation and report generation, cutting manual reporting effort and turnaround time through VBA macro automation.
+- Translated raw adoption data into business-facing insights — tracking AI maturity levels, industry trends, and business impact — through dynamic, decision-ready visualizations.
+- Owned the project end-to-end: requirements framing, data processing logic, and final dashboard delivery.
+
+### 🩺 AI-Based Disease Prediction System
+*Python, Flask, Scikit-learn, Pandas, NumPy*
+- Identified patterns in symptom data and generated multi-outcome predictions with confidence scoring, delivered through an interactive web interface for real-time use.
+- Built the full analytics pipeline solo — data processing, model training, and inference — demonstrating the ability to deliver a complete data product without supervision.
+
+### ⚙️ Python Automation & Workflow Analytics
+*Python, AI-driven scripting*
+- Designed automation scripts to streamline repetitive data-handling workflows, reducing manual effort and improving process efficiency.
+- Applied an ownership-driven approach to identify inefficiencies and implement automated fixes, mirroring a process-improvement mindset.
+
+### 💰 Expense Tracker Dashboard
+*HTML, CSS, JavaScript*
+- Built an interactive dashboard with dynamic categorization and chart-based visualizations to surface spending trends and support better financial decisions.
+- Managed the full development lifecycle independently, from design through deployment.
 
 ---
 
 ## 🎓 Education
-- **Rajeev Gandhi Memorial College Of Engineering & Technology** (2022-2026)  
-  - B.Tech in CSE (AI & ML), CGPA: 8.0
-- **Naryana Junior College** (2020-2022)  
-  - XII-Standard (MPC), CGPA: 9.1  
-- **Sri Chaitanya English Medium School** (2020)  
-  - SSC, CGPA: 10  
 
----
+**B.Tech, Computer Science & Engineering (AI & ML)**
+Rajeev Gandhi Memorial College of Engineering & Technology, Nandyal, AP | 2022–2026
+CGPA: 8.0 / 10
 
-## 💻 Skills
-- **Programming Languages:** Python, Java, C, Data Structures & Algorithms  
-- **Libraries & Frameworks:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Web Development:** HTML, CSS, JavaScript, NodeJS, SQL, MongoDB, Django  
-- **Tools & Technologies:** Jupyter Notebook, GitHub, Power BI, Visual Studio Code  
-- **Soft Skills:** Teamwork, Time Management, Communication, Quick Learner  
-- **Languages:** English, Telugu  
-
----
-
-## 🚀 Projects
-### **Machine Learning**
-- **Credit Card Fraud Detection**  
-  - Built a fraud detection system using Python, Scikit-learn, and Isolation Forest.  
-  - Achieved high accuracy in identifying anomalies through data preprocessing and model training.  
-
-### **Web Development**
-- **Expense Tracker**  
-  - Developed a responsive app with dynamic categorization, local storage, and chart visualizations (HTML/CSS/JS).  
-- **Country Guide App**  
-  - Created an interactive guide displaying country details like currency, capital, and population (HTML/CSS/JS).
-  ### **
+**XII Standard, MPC**
+Narayana Junior College, Srinivasa Nagar, Nandyal, AP | 2020–2022
+CGPA: 9.1 / 10
 
 ---
 
 ## 📜 Certifications
-- **AICTE:** AI & ML, Cloud Computing, Data Engineering, Ethical Hacking, Java Full Stack  
-- **SKILL DUNIA**: Machine learning with python
-- **SKILL DRIZE**: Full Stack Java
+
+- AI & ML — AICTE
+- Java Full Stack — AICTE
+- Machine Learning with Python — Skill Dunia
+- AWS Certified Cloud Practitioner — AWS
+- Web Development — Skill India
+- AI & ML — IBM
+- Full Stack Java — Skill Drize
 
 ---
 
-## 🌟 Highlights
-- Strong foundation in AI/ML concepts and robotics.  
-- Proven ability to develop practical solutions through projects.  
-- Adaptable and collaborative with excellent problem-solving skills.  
+## 🤝 Let's Connect
+
+📧 keerthi4679@gmail.com
+📱 +91 8074695112
+📍 Nandyal, Andhra Pradesh, 518501
+🔗 LinkedIn | GitHub
 
 ---
-## 📞 Contact Information
-- **Phone:** +91 8074695112  
-- **Email:** keerthi4679@gmail.com  
-- **Location:** Nandyal, Andhra Pradesh, 518501  
-- **LinkedIn:** https://www.linkedin.com/in/siddakeerthi04/
-- **Github:** https://github.com/Keerthi778
+
+*"Turning raw data into stakeholder-ready insights."*
